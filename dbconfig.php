@@ -6,7 +6,7 @@
 	
 	$user = 'root'; 			// username of host
 	
-	$password = ''; 			// password of host
+	$password = 'password'; 			// password of host
 	
 	$dbname = 'db'; 			//database name
 			
