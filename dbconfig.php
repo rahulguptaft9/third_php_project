@@ -2,7 +2,7 @@
 
 	global $con;
 
-	$hostname = 'localhost'; 	// Host Name
+	$hostname = '10.106.207.152'; 	// Host Name
 	
 	$user = 'root'; 			// username of host
 	
